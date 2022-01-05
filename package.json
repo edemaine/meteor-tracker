@@ -1,6 +1,6 @@
 {
   "name": "@edemaine/meteor-tracker",
-  "version": "1.2.0-alpha.1",
+  "version": "1.0.0",
   "description": "NPM version of Meteor Tracker",
   "main": "tracker.js",
   "license": "MIT",

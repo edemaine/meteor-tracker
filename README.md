@@ -15,8 +15,14 @@ The code consists of a one-line change to
 to make the Node module exports match the Meteor exports
 (`Tracker` and `Deps`).
 
-The intent is to track the version numbers of Meteor Tracker.
+## Versions
+
+The intent is to track the latest version of Meteor Tracker.
 If the latter changes, please open an issue to update this package.
+
+NPM version | Meteor Tracker version
+------------|-----------------------
+1.0.x | [1.2.0](https://github.com/meteor/meteor/tree/4a76fe3fe6bbb99ce2850690864c5bbad97ec163/packages/tracker)
 
 ## Usage: JavaScript
 
