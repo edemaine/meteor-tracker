@@ -1,8 +1,9 @@
 {
   "name": "@edemaine/meteor-tracker",
-  "version": "1.0.0",
-  "description": "NPM version of Meteor Tracker",
-  "main": "tracker.js",
+  "version": "1.1.0",
+  "description": "NPM version of Meteor Tracker, ReactiveVar",
+  "main": "index.js",
+  "type": "module",
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -1,3 +1,6 @@
+// CHANGE FOR NPM:
+let Tracker, Deps;
+
 /////////////////////////////////////////////////////
 // Package docs at http://docs.meteor.com/#tracker //
 /////////////////////////////////////////////////////
@@ -632,5 +635,5 @@ Tracker.afterFlush = function (f) {
   requireFlush();
 };
 
-// Changes for NPM:
-module.exports = {Tracker, Deps};
+// CHANGE FOR NPM:
+export {Tracker, Deps};
