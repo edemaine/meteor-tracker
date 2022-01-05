@@ -1,0 +1,20 @@
+{
+  "name": "@edemaine/meteor-tracker",
+  "version": "1.2.0-alpha.1",
+  "description": "NPM version of Meteor Tracker",
+  "main": "tracker.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edemaine/meteor-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edemaine/meteor-tracker/issues"
+  },
+  "homepage": "https://github.com/edemaine/meteor-tracker#readme",
+  "author": {
+    "name": "Erik Demaine",
+    "email": "edemaine@mit.edu",
+    "url": "http://erikdemaine.org/"
+  }
+}
