@@ -16,5 +16,8 @@
     "name": "Erik Demaine",
     "email": "edemaine@mit.edu",
     "url": "http://erikdemaine.org/"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
