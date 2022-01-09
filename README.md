@@ -17,6 +17,10 @@ The code consists of a few one-line changes to Meteor's source code
 (see `CHANGE FOR NPM` in the code),
 to make the Node module imports and exports match those in Meteor.
 
+For a more complete set of Meteor ports, check out
+[Blast](https://github.com/harryadel/blastjs) on
+[NPM](https://www.npmjs.com/search?q=%40blastjs).
+
 ## Versions
 
 The intent is to track the latest version of Meteor Tracker.
